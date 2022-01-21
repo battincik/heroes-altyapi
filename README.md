@@ -1,1 +1,1 @@
-# Heroes [Heroes Altyapi](https://github.com/battincik/heroes "Heroes Altyapı")
+# Battincik [Heroes Altyapi](https://github.com/battincik/heroes "Heroes Altyapı")
