@@ -1,2 +1,1 @@
-# heroes-altyapi
-Heroes Botları
+#[Heroes Altyapi](https://github.com/battincik/heroes "Heroes Altyapı")
